@@ -84,7 +84,7 @@ EMPLEADOS_FILE = os.path.join(DATA_DIR, "empleados.xlsx")
 COMPRAS_FILE = os.path.join(DATA_DIR, "compras.xlsx")
 CATEGORIAS_FILE = os.path.join(DATA_DIR, "categorias.xlsx")
 DESPACHO_FILE = os.path.join(DATA_DIR, "despachos.xlsx")
-MINIMARKET_NOMBRE = "Minimarket Jardines"
+MINIMARKET_NOMBRE = "Minimarket"
 
 def asegurarse_archivos():
     os.makedirs(DATA_DIR, exist_ok=True)
