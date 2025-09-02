@@ -60,7 +60,7 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local.
 
 4.  **Ejecuta la aplicación:**
     ```bash
-    python minimarket_jardines.py
+    python minimarket.py
     ```
     *El nombre del archivo principal debe coincidir con el de tu proyecto.*
 
